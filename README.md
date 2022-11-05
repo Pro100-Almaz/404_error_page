@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Error page}</h1>
+<h1 align="center">404 Error page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -38,7 +38,7 @@
 
 ![screenshot](screen.jpg)
 
--[Experience]Overall, this practice problem helped with understanding of "Hero" part of webpage implementing by flex and grid. Also, there might be some problem with design difference in spacing, it can be reasoned by different screen resolution of mine and figma template.
+-Overall, this practice problem helped with understanding of "Hero" part of webpage implementing by flex and grid. Also, there might be some problem with design difference in spacing, it can be reasoned by different screen resolution of mine and figma template.
 
 ### Built With
 
