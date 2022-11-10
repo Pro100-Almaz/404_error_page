@@ -14,7 +14,10 @@
     <title>404 Error</title>
   </head>
   <body>
-    <header class="header">404 not found</header>
+    <header class="header">
+      <div class="error-type">404 not found</div>
+      <button onclick="darkMode()" class="theme"><a href="#"><img id="btn-theme" src="theme_dark.png"></img></a></button>
+    </header>
     <section class="hero-section">
       <div class="hero">
         <img src="Scarecrow.png" alt="hero image with scarecrow" />
@@ -22,12 +25,15 @@
           <h2 class="hero-topic">I have bad news for you</h2>
           <p class="hero-description">
             The page you are looking for might be removed or is temporarily
-            unavailable
+            unavailablel
           </p>
-          <button class="hero-button">Back to homepage</button>
+          <button class="hero-button">
+            <a href="#" class="btn-back-home">Back to homepage</a>
+          </button>
         </div>
       </div>
     </section>
     <footer class="footer">created by username - devHouse.kz</footer>
+    <script src="script.js"></script>
   </body>
 </html>
